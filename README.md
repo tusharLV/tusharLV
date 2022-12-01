@@ -8,7 +8,7 @@
 </h2>  
 <h3>
   <h2>
-    <samp>PROJECTS</samp>
+    <samp>CONTRIBUTIONS</samp>
   </h2>
 </h3>
 <ul>
